@@ -1,12 +1,12 @@
 {
-    "id": "office365-owa",
-    "name": "Office 365 Outlook Web App",
+    "id": "office365-owa-ballard",
+    "name": "Outlook 365 - Amazon",
     "version": "1.0.0",
-    "description": "Office 365 Outlook Web App",
+    "description": "Outlook 365 - Amazon",
     "main": "index.js",
     "author": "Adam Birds <adam.birds@adbtechltd.co.uk>",
     "license": "MIT",
     "config": {
-        "serviceURL": "https://outlook.office365.com/owa"
+        "serviceURL": "https://ballard.amazon.com/owa/"
     }
 }
